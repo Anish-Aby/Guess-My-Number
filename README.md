@@ -1,6 +1,6 @@
 # Guess-My-Number 🔮
 
-<img src="https://cdn.dribbble.com/users/1065420/screenshots/3956946/gary-question-mark.gif" width=500/>
+<img src="https://cdn.dribbble.com/users/1065420/screenshots/3956946/gary-question-mark.gif" width="500"/>
 
 ### Welcome to my **Guess-My-Number** project! 👋🏻 
 
