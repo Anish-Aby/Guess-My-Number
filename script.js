@@ -18,7 +18,8 @@ $('.check').on('click', function () {
     reduceScore();
   } else if (userGuess === randomNumber) {
     body.css('background-color', '#60b347');
-    userHighScore = currentScore;
+    message.html('🎉 Correct number');
+    userHighScore = Math.max(userHighScore, currentScore);
   }
 });
 
