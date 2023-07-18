@@ -11,3 +11,5 @@ This is just a simple website which I made for learning purposes, where you can 
 * ✅ CSS
 * ✅ JS
 * ✅ jQuery
+
+Enjoy playing! 🎉
